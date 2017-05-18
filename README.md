@@ -1,2 +1,5 @@
-# rocketblaster
-Rocket Blaster is a Phaser game engine step-by-step development. 
+# rocket Blaster
+###2017
+Rocket Blaster is a Phaser game engine which has been made by Jordon Holmes
+
+The live games can be used [here] (https://lenusltd.github.io/rocketblaster/)
